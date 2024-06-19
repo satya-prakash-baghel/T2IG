@@ -354,7 +354,7 @@ with block:
                 <br/>
                 Source code of this Model is on 
                 <a
-                  href="https://github.com/satya-prakash-baghel/T2IG.git"
+                  href="https://github.com/aryanchaudhary24/T2IG.git"
                   style="text-decoration: underline;"
                   target="_blank"
                   >satya-prakash-baghel/T2IG</a>.
